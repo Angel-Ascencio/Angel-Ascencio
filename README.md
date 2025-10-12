@@ -34,7 +34,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![PowerScript](https://img.shields.io/badge/PowerScript-1572B6?style=for-the-badge&logo=powerbi&logoColor=white)](https://www.appeon.com/products/powerbuilder.html)
+[![PowerScript](https://img.shields.io/badge/PowerScript-1572B6?style=for-the-badge&logo=powerbi&logoColor=white)](https://docs.appeon.com/pb2022r3/powerscript_reference/index.html)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ---
