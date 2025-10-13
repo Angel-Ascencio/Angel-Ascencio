@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnología+y+la+innovación;Transformando+ideas+en+soluciones+reales+💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnología+y+la+innovación;)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,13 @@
 
 ### 💻 Sobre mí  
 
-👨‍💻 Soy un proximo Ingeniero en Gestion y Desarrollo de Software multiplataforma, especializado en el análisis de requerimientos, diseño de arquitecturas, modelado de bases de datos, la implementación de backend robusto y patrones de diseño.
+👨‍💻 Soy un próximo Ingeniero en Gestión y Desarrollo de Software Multiplataforma, especializado en el análisis de requerimientos, diseño de arquitecturas, modelado de bases de datos, la implementación de backend robusto y patrones de diseño.
 
-🚀 Apasionado por transformar la complejidad técnica en soluciones eficientes y escalables, aplicando patrones de diseño y buenas prácticas que aseguran calidad y mantenibilidad.
+* Apasionado por transformar la complejidad técnica en soluciones eficientes y escalables, aplicando patrones de diseño y buenas prácticas que aseguran calidad y mantenibilidad.
 
-💡 Con experiencia en el desarrollo Full Stack, integro backend y frontend para construir aplicaciones modernas, limpias y centradas en la experiencia del usuario.
+* Con experiencia en el desarrollo Full Stack, integro backend y frontend para construir aplicaciones modernas, limpias y centradas en la experiencia del usuario.
 
-💬 *“Si lo puedes imaginar, lo puedes programar.”* – Alejandro Taboada. 
+> *“Si lo puedes imaginar, lo puedes programar.”* – Alejandro Taboada. 
 
 ---
 
@@ -102,7 +102,7 @@
 
 ---
 
-### 📈 Mis estadísticas de GitHub
+### 📊 Mis estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Angel-Ascencio&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -131,15 +131,18 @@
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 |-----------|--------------|--------------|---------|
-| 🍪 **GalleteriaLaTradicionalVF** | Sistema web integral de gestión (pedidos en línea, inventario, producción, ventas, dashboard) con Flask, seguridad y generación de PDFs. (Proyecto en equipo). | Python, Flask, MySQL | [Ver repo](https://github.com/Angel-Ascencio/GalleteriaLaTradicionalVF) |
-| 📚 **Biblioteca** | Sistema de gestión de múltiples librerías que centraliza el acceso a libros y usuarios. | JavaScript, MySQL, Java | [Ver repo](https://github.com/Angel-Ascencio/Biblioteca) |
-| 📺 **Rick-and-Morty** | PWA que consume la API de Rick and Morty para mostrar personajes, con búsqueda y paginación. | React, JavaScript, PWA, API | [Ver demo](https://68e764f4c157e09c412f7bff--api-rick-and-morty-personajes.netlify.app/) |
-| 🧾 **RFC-CURP** | Validador de RFC y CURP desarrollado con Angular y TypeScript. (Proyecto en equipo) | Angular, TypeScript | [Ver repo](https://github.com/Angel-Ascencio/RFC-CURP) |
+| **GalleteriaLaTradicionalVF** | Sistema web integral de gestión (pedidos en línea, inventario, producción, ventas, dashboard) con Flask, seguridad y generación de PDFs. (Proyecto en equipo). | Python, Flask, JavaScript, MySQL | [Ver repo](https://github.com/Angel-Ascencio/GalleteriaLaTradicionalVF) |
+| **Biblioteca** | Sistema de gestión de múltiples librerías que centraliza el acceso a libros y usuarios. | JavaScript, MySQL, Java | [Ver repo](https://github.com/Angel-Ascencio/Biblioteca) |
+| **Rick-and-Morty** | PWA que consume la API de Rick and Morty para mostrar personajes, con búsqueda y paginación. | React, JavaScript, PWA, API | [Ver demo](https://68e764f4c157e09c412f7bff--api-rick-and-morty-personajes.netlify.app/) |
+| **RFC-CURP** | Validador de RFC y CURP desarrollado con Angular y TypeScript. (Proyecto en equipo) | Angular, TypeScript | [Ver repo](https://github.com/Angel-Ascencio/RFC-CURP) |
 
 ---
 
 ### 🌐 Conecta conmigo
 
+¿Tienes un proyecto interesante o buscas un desarrollador apasionado?
+
+*Puedes contactarme a través de:*
 <p align="center">
   <a href="mailto:angel.tadeo.ascencio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/Angel-Tadeo-Ascencio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -149,4 +152,4 @@
 
 ---
 
-⭐ *Gracias por visitar mi perfil. ¡Siempre estoy aprendiendo y construyendo algo nuevo!* 🚀
+ *Gracias por visitar mi perfil. ¡Siempre estoy aprendiendo y construyendo algo nuevo!* 
