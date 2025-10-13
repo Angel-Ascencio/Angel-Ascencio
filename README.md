@@ -96,7 +96,7 @@
 [![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)](https://tomcat.apache.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Testing](https://img.shields.io/badge/Testing%20Unitario-007396?style=for-the-badge&logo=testinglibrary&logoColor=white)](https://jestjs.io/)
-[![Integración](https://img.shields.io/badge/Testing%20de%20Integración-FF69B4?style=for-the-badge&logo=jest&logoColor=white)](https://martinfowler.com/articles/microservice-testing/)
+[![Integración](https://img.shields.io/badge/Testing%20de%20Integración-FF69B4?style=for-the-badge&logo=jest&logoColor=white)](https://aws.amazon.com/es/what-is/unit-testing/)
 
 </div>
 
