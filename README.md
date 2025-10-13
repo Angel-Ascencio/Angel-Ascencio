@@ -27,6 +27,7 @@
 ## 🧠 Tecnologías y Herramientas
 
 
+
 ### 💻 Lenguajes  
 [![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -102,6 +103,31 @@
 
 ---
 
+### 🌐 Conecta conmigo
+
+¿Tienes un proyecto interesante o buscas un desarrollador apasionado?
+
+*Puedes contactarme a través de:*
+<p align="center">
+  <a href="mailto:angel.tadeo.ascencio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/Angel-Tadeo-Ascencio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="https://github.com/Angel-Ascencio/Angel-Ascencio/blob/main/Angel%20Ascencio%20CV.pdf"><img src="https://img.shields.io/badge/Mi%20CV-4A4A4A?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+  <a href="https://github.com/Angel-Ascencio"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🚀 Algunos de mis proyectos
+
+| Proyecto | Descripción | Tecnologías | Enlace |
+|-----------|--------------|--------------|---------|
+| **GalleteriaLaTradicionalVF** | Sistema web integral de gestión (pedidos en línea, inventario, producción, ventas, dashboard) con Flask, seguridad y generación de PDFs. (Proyecto en equipo). | Python, Flask, JavaScript, MySQL | [Ver repo](https://github.com/Angel-Ascencio/GalleteriaLaTradicionalVF) |
+| **Biblioteca** | Sistema de gestión de múltiples librerías que centraliza el acceso a libros y usuarios. | JavaScript, MySQL, Java | [Ver repo](https://github.com/Angel-Ascencio/Biblioteca) |
+| **Rick-and-Morty** | PWA que consume la API de Rick and Morty para mostrar personajes, con búsqueda y paginación. | React, JavaScript, PWA, API | [Ver demo](https://68e764f4c157e09c412f7bff--api-rick-and-morty-personajes.netlify.app/) |
+| **RFC-CURP** | Validador de RFC y CURP desarrollado con Angular y TypeScript. (Proyecto en equipo) | Angular, TypeScript | [Ver repo](https://github.com/Angel-Ascencio/RFC-CURP) |
+
+---
+
 ### 📊 Mis estadísticas de GitHub
 
 <p align="center">
@@ -123,31 +149,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
----
-
-### 🚀 Algunos de mis proyectos
-
-| Proyecto | Descripción | Tecnologías | Enlace |
-|-----------|--------------|--------------|---------|
-| **GalleteriaLaTradicionalVF** | Sistema web integral de gestión (pedidos en línea, inventario, producción, ventas, dashboard) con Flask, seguridad y generación de PDFs. (Proyecto en equipo). | Python, Flask, JavaScript, MySQL | [Ver repo](https://github.com/Angel-Ascencio/GalleteriaLaTradicionalVF) |
-| **Biblioteca** | Sistema de gestión de múltiples librerías que centraliza el acceso a libros y usuarios. | JavaScript, MySQL, Java | [Ver repo](https://github.com/Angel-Ascencio/Biblioteca) |
-| **Rick-and-Morty** | PWA que consume la API de Rick and Morty para mostrar personajes, con búsqueda y paginación. | React, JavaScript, PWA, API | [Ver demo](https://68e764f4c157e09c412f7bff--api-rick-and-morty-personajes.netlify.app/) |
-| **RFC-CURP** | Validador de RFC y CURP desarrollado con Angular y TypeScript. (Proyecto en equipo) | Angular, TypeScript | [Ver repo](https://github.com/Angel-Ascencio/RFC-CURP) |
-
----
-
-### 🌐 Conecta conmigo
-
-¿Tienes un proyecto interesante o buscas un desarrollador apasionado?
-
-*Puedes contactarme a través de:*
-<p align="center">
-  <a href="mailto:angel.tadeo.ascencio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/Angel-Tadeo-Ascencio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://github.com/Angel-Ascencio/Angel-Ascencio/blob/main/Angel%20Ascencio%20CV.pdf"><img src="https://img.shields.io/badge/Mi%20CV-4A4A4A?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
-  <a href="https://github.com/Angel-Ascencio"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
