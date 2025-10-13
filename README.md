@@ -69,12 +69,12 @@
 ---
 
 ### 🧩 Arquitecturas y Patrones  
-[![MVC](https://img.shields.io/badge/MVC-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://en.wikipedia.org/wiki/Model–view–controller)
-[![MVVM](https://img.shields.io/badge/MVVM-34A853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/mvvm)
-[![DAO](https://img.shields.io/badge/DAO-FFB800?style=for-the-badge&logo=apache&logoColor=white)](https://en.wikipedia.org/wiki/Data_access_object)
-[![CQRS](https://img.shields.io/badge/CQRS-FF4B4B?style=for-the-badge&logo=azuredevops&logoColor=white)](https://martinfowler.com/bliki/CQRS.html)
-[![Microservicios](https://img.shields.io/badge/Microservicios-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://microservices.io/)
-[![AppService](https://img.shields.io/badge/AppService-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/app-service/overview)
+[![MVC](https://img.shields.io/badge/MVC-4285F4?style=for-the-badge)](https://developer.mozilla.org/es/docs/Glossary/MVC) 
+[![MVVM](https://img.shields.io/badge/MVVM-34A853?style=for-the-badge)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/mvvm) 
+[![DAO](https://img.shields.io/badge/DAO-FFB800?style=for-the-badge)](https://www.oracle.com/java/technologies/data-access-object.html) 
+[![CQRS](https://img.shields.io/badge/CQRS-FF4B4B?style=for-the-badge)](https://learn.microsoft.com/es-es/azure/architecture/patterns/cqrs) 
+[![Microservicios](https://img.shields.io/badge/Microservicios-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://microservices.io/) 
+[![AppService](https://img.shields.io/badge/AppService-0078D7?style=for-the-badge)](https://learn.microsoft.com/en-us/azure/app-service/overview)
 
 ---
 
