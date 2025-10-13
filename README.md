@@ -18,7 +18,7 @@
 
 💡 Con experiencia en el desarrollo Full Stack, integro backend y frontend para construir aplicaciones modernas, limpias y centradas en la experiencia del usuario.
 
-💬 *“Lo que puede imaginarse, puede programarse.”*  
+💬 *“Si lo puedes imaginar, lo puedes programar.”* – Alejandro Taboada. 
 
 ---
 
