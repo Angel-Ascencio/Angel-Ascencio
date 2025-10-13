@@ -143,7 +143,7 @@
 <p align="center">
   <a href="mailto:angel.tadeo.ascencio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/Angel-Tadeo-Ascencio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://github.com/Angel-Ascencio/Angel-Ascencio/blob/main/Angel%20Ascencio%20CV.pdf"><img src="https://img.shields.io/badge/Mi%2CV-4A4A4A?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+   <a href="https://github.com/Angel-Ascencio/Angel-Ascencio/blob/main/Angel%20Ascencio%20CV.pdf"><img src="https://img.shields.io/badge/Mi%20CV-4A4A4A?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
   <a href="https://github.com/Angel-Ascencio"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
