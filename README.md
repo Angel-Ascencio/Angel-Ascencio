@@ -131,10 +131,10 @@
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 |-----------|--------------|--------------|---------|
-| 🧮 **Calculadora-PWA** | Calculadora progresiva ligera con modo offline y diseño moderno. | React, JS, PWA | [Ver demo](https://angel-ascencio.github.io/Calculadora-PWA/) |
-| 🧾 **RFC-CURP** | Validador de RFC y CURP desarrollado con Angular y TypeScript. | Angular, TypeScript | [Ver demo](https://angel-ascencio.github.io/RFC-CURP/) |
-| 🍪 **SISTEMA-DON-GALLETO** | Sistema integral de gestión para una galletería local (ventas, inventario, producción). | Java, MySQL, JS | [Ver repo](https://github.com/Angel-Ascencio/SISTEMA-DON-GALLETO) |
-| 🍰 **GalleteriaLaTradicionalVF** | Sistema web con Flask para gestión de pedidos, empleados y clientes. | Python, Flask, HTML | [Ver repo](https://github.com/Angel-Ascencio/GalleteriaLaTradicionalVF) |
+| 🍪 **GalleteriaLaTradicionalVF** | Sistema web integral de gestión (pedidos en línea, inventario, producción, ventas, dashboard) con Flask, seguridad y generación de PDFs. (Proyecto en equipo). | Python, Flask, HTML | [Ver repo](https://github.com/Angel-Ascencio/GalleteriaLaTradicionalVF) |
+| 📚 **Biblioteca** | Sistema de gestión de múltiples librerías que centraliza el acceso a libros y usuarios. | JavaScript, SQL (probable) | [Ver repo](https://github.com/Angel-Ascencio/Biblioteca) |
+| 📺 **Rick-and-Morty** | PWA que consume la API de Rick and Morty para mostrar personajes, con búsqueda y paginación. | React, JavaScript, PWA, API | [Ver demo](https://github.com/Angel-Ascencio/Rick-and-Morty) |
+| 🧾 **RFC-CURP** | Validador de RFC y CURP desarrollado con Angular y TypeScript. (Proyecto en equipo) | Angular, TypeScript | [Ver demo](https://angel-ascencio.github.io/RFC-CURP/) |
 
 ---
 
