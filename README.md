@@ -1,5 +1,5 @@
 <!-- README para tu perfil de GitHub -->
-<h1 align="center">✨ ¡Hola, soy <span style="color:#58a6ff;">Angel Ascencio</span>! 👋</h1>
+<h1 align="center">¡Hola, soy <span style="color:#58a6ff;">Angel Ascencio</span>! 👋</h1>
 
 <div align="center">
 
@@ -131,8 +131,8 @@
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 |-----------|--------------|--------------|---------|
-| 🍪 **GalleteriaLaTradicionalVF** | Sistema web integral de gestión (pedidos en línea, inventario, producción, ventas, dashboard) con Flask, seguridad y generación de PDFs. (Proyecto en equipo). | Python, Flask, HTML | [Ver repo](https://github.com/Angel-Ascencio/GalleteriaLaTradicionalVF) |
-| 📚 **Biblioteca** | Sistema de gestión de múltiples librerías que centraliza el acceso a libros y usuarios. | JavaScript, SQL (probable) | [Ver repo](https://github.com/Angel-Ascencio/Biblioteca) |
+| 🍪 **GalleteriaLaTradicionalVF** | Sistema web integral de gestión (pedidos en línea, inventario, producción, ventas, dashboard) con Flask, seguridad y generación de PDFs. (Proyecto en equipo). | Python, Flask, MySQL | [Ver repo](https://github.com/Angel-Ascencio/GalleteriaLaTradicionalVF) |
+| 📚 **Biblioteca** | Sistema de gestión de múltiples librerías que centraliza el acceso a libros y usuarios. | JavaScript, MySQL, Java | [Ver repo](https://github.com/Angel-Ascencio/Biblioteca) |
 | 📺 **Rick-and-Morty** | PWA que consume la API de Rick and Morty para mostrar personajes, con búsqueda y paginación. | React, JavaScript, PWA, API | [Ver demo](https://68e764f4c157e09c412f7bff--api-rick-and-morty-personajes.netlify.app/) |
 | 🧾 **RFC-CURP** | Validador de RFC y CURP desarrollado con Angular y TypeScript. (Proyecto en equipo) | Angular, TypeScript | [Ver repo](https://github.com/Angel-Ascencio/RFC-CURP) |
 
