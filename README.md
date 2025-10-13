@@ -81,8 +81,8 @@
 ### 📋 Metodologías  
 [![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/)
 [![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://www.atlassian.com/agile/kanban)
-[![DevOps](https://img.shields.io/badge/DevOps-1F425F?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/solutions/devops/)
-[![Cascada](https://img.shields.io/badge/Cascada-999999?style=for-the-badge&logo=googledocs&logoColor=white)](https://en.wikipedia.org/wiki/Waterfall_model)
+[![DevOps](https://img.shields.io/badge/DevOps-1F425F?style=for-the-badge&logo=infinity&logoColor=white)](https://azure.microsoft.com/en-us/solutions/devops/)
+[![Cascada](https://img.shields.io/badge/Cascada-999999?style=for-the-badge&logo=googledocs&logoColor=white)](https://www.atlassian.com/agile/project-management/waterfall-methodology)
 
 ---
 
