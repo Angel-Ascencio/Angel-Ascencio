@@ -12,7 +12,7 @@
 
 ### 💻 Sobre mí  
 
-👨‍💻 Soy un próximo Ingeniero en Gestión y Desarrollo de Software Multiplataforma, especializado en el análisis de requerimientos, diseño de arquitecturas, modelado de bases de datos, la implementación de backend robusto y patrones de diseño.
+Soy un próximo Ingeniero en Gestión y Desarrollo de Software Multiplataforma, especializado en el análisis de requerimientos, diseño de arquitecturas, modelado de bases de datos, la implementación de backend robusto y patrones de diseño.
 
 * Apasionado por transformar la complejidad técnica en soluciones eficientes y escalables, aplicando patrones de diseño y buenas prácticas que aseguran calidad y mantenibilidad.
 
@@ -24,11 +24,11 @@
 
 <div align="center">
 
-## 🧠 Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 
 
-### 💻 Lenguajes  
+### Lenguajes  
 [![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
@@ -39,7 +39,7 @@
 
 ---
 
-### ⚙️ Frameworks / Librerías  
+### Frameworks / Librerías  
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -52,7 +52,7 @@
 
 ---
 
-### 🗄️ Bases de datos y Backend  
+### Bases de datos y Backend  
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -62,14 +62,14 @@
 
 ---
 
-### 🌐 IoT  
+### IoT  
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 [![MQTT](https://img.shields.io/badge/Broker%20MQTT-FF9900?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)](https://mqtt.org/)
 
 ---
 
-### 🧩 Arquitecturas y Patrones  
+### Arquitecturas y Patrones  
 [![MVC](https://img.shields.io/badge/MVC-4285F4?style=for-the-badge)](https://developer.mozilla.org/es/docs/Glossary/MVC) 
 [![MVVM](https://img.shields.io/badge/MVVM-34A853?style=for-the-badge)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/mvvm) 
 [![DAO](https://img.shields.io/badge/DAO-FFB800?style=for-the-badge)](https://www.oracle.com/java/technologies/data-access-object.html) 
@@ -79,7 +79,7 @@
 
 ---
 
-### 📋 Metodologías  
+### Metodologías  
 [![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/)
 [![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://www.atlassian.com/agile/kanban)
 [![DevOps](https://img.shields.io/badge/DevOps-1F425F?style=for-the-badge&logo=infinity&logoColor=white)](https://azure.microsoft.com/en-us/solutions/devops/)
@@ -87,7 +87,7 @@
 
 ---
 
-### 🧰 Herramientas y Servicios  
+### Herramientas y Servicios  
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -117,7 +117,7 @@
 
 ---
 
-### 🚀 Algunos de mis proyectos
+### Algunos de mis proyectos
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 |-----------|--------------|--------------|---------|
@@ -128,7 +128,7 @@
 
 ---
 
-### 📊 Mis estadísticas de GitHub
+### Mis estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Angel-Ascencio&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -141,7 +141,7 @@
 
 ---
 
-### 🐍 Mi gráfico de contribuciones
+### Mi gráfico de contribuciones
 
 <p align="center">
   <picture>
