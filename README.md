@@ -131,8 +131,12 @@ Soy un próximo Ingeniero en Gestión y Desarrollo de Software Multiplataforma, 
 ### Mis estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angel-Ascencio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Angel-Ascencio&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Ascencio&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Angel-Ascencio&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 ---
