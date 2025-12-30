@@ -128,7 +128,7 @@ Soy un próximo Ingeniero en Gestión y Desarrollo de Software Multiplataforma, 
 
 ---
 
-### 📊 Mis Estadísticas
+### Mis Estadísticas
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angel-Ascencio&theme=tokyonight" alt="Resumen" />
