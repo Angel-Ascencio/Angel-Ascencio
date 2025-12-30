@@ -139,6 +139,14 @@ Soy un próximo Ingeniero en Gestión y Desarrollo de Software Multiplataforma, 
   <img src="https://streak-stats.demolab.com?user=Angel-Ascencio&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
+### 📊 Mis Estadísticas
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angel-Ascencio&theme=tokyonight" alt="Resumen" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Angel-Ascencio&theme=tokyonight" alt="Lenguajes" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Angel-Ascencio&theme=tokyonight" alt="Tiempo Productivo" />
+</p>
+
 ---
 
 ### Mi gráfico de contribuciones
