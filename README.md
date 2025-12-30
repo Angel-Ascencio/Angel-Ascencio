@@ -121,9 +121,9 @@ Soy un próximo Ingeniero en Gestión y Desarrollo de Software Multiplataforma, 
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 |-----------|--------------|--------------|---------|
+| **Seguridad Vecinal** | Sistema de control y monitoreo para fraccionamientos. En la documentación se encuentran los repositorios del backend y de la aplicación movil. | React, JavaScript, tailwind-css, PWA, API, C#, Kotlin, SQL Server, Firebase | [Ver repo](https://github.com/Angel-Ascencio/Red-Seguridad-Vecinal-Frontend) |
 | **GalleteriaLaTradicionalVF** | Sistema web integral de gestión (pedidos en línea, inventario, producción, ventas, dashboard) con Flask, seguridad y generación de PDFs. (Proyecto en equipo). | Python, Flask, JavaScript, MySQL | [Ver repo](https://github.com/Angel-Ascencio/GalleteriaLaTradicionalVF) |
 | **Biblioteca** | Sistema de gestión de múltiples librerías que centraliza el acceso a libros y usuarios. | JavaScript, MySQL, Java | [Ver repo](https://github.com/Angel-Ascencio/Biblioteca) |
-| **Rick-and-Morty** | PWA que consume la API de Rick and Morty para mostrar personajes, con búsqueda y paginación. | React, JavaScript, PWA, API | [Ver demo](https://68e764f4c157e09c412f7bff--api-rick-and-morty-personajes.netlify.app/) |
 | **RFC-CURP** | Validador de RFC y CURP desarrollado con Angular y TypeScript. (Proyecto en equipo) | Angular, TypeScript | [Ver repo](https://github.com/Angel-Ascencio/RFC-CURP) |
 
 ---
